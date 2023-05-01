@@ -1,0 +1,134 @@
+#cuerpo{
+    width: 300px;
+    height: 300px;
+    background-color: pink;
+    border-radius: 100%;
+    margin: 0px;
+    left: 250px;
+    position: absolute;
+}
+#brazoIzquierdo{
+    width: 100px;
+    height: 150px;
+    background-color: pink;
+    border-radius: 100%;
+    transform: rotate(150deg);
+    position: absolute;
+    left: 500px;
+    margin: 0px;
+    top: 100px;
+}
+
+#brazoDerecho{
+    width: 100px;
+    height: 150px;
+    background-color: pink;
+    border-radius: 100%;
+    transform: rotate(-150deg);
+    position: absolute;
+    left: 190px;
+    margin: 0px;
+    top: 100px;
+}
+
+
+#pieIzquierdo{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    border-radius: 100%;
+    margin: 0px;
+    top: 260px;
+    left: 170px;
+    position: absolute;
+} 
+
+#pieDerecho{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    border-radius: 100%;
+    margin: 0px;
+    top: 260px;
+    left: 420px;
+    position: absolute;
+} 
+#ojoIzquierdo{
+border-radius: 100%;
+height: 100px;
+width: 50px;
+background-color: black;  
+position: absolute;
+left:310px;
+top: 50px;  
+}
+#ojoDerecho{
+    border-radius: 100%;
+    height: 100px;
+    width: 50px;
+    background-color: black;  
+    position: absolute;
+    left:410px;
+    top: 50px;  
+}
+
+#pupilaIzquierda{
+    border-radius: 100%;
+    height: 70px;
+    width: 25px;
+    background-color: white;  
+    position: absolute;
+    left:322px;
+    top: 60px;  
+}
+#pupilaDerecha{
+border-radius: 100%;
+height: 70px;
+width: 25px;
+background-color: white;  
+position: absolute;
+left:422px;
+top: 60px;  
+}
+#chapeteIzquierdo{
+    background-color: magenta;
+    left: 280px;
+    top: 220px;
+    border-radius: 100%;
+    width: 60px;
+    height: 30px;
+    position: absolute;
+}
+#chapeteDerecho{
+    background-color: magenta;
+    left: 440px;
+    top: 220px;
+    border-radius: 100%;
+    width: 60px;
+    height: 30px;
+    position: absolute;
+}
+#boca{
+    background-color: black;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    left: 375px;
+    top: 225px;
+    position: absolute;
+}
+body{
+    background-color: aqua;
+}
+#kirby{
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+#mensaje{
+    color: green;
+    font-family: Arial;
+    font-size: 100px;
+    left: 500px;
+    position: absolute;
+}
